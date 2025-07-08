@@ -11,7 +11,6 @@ A simple **Tic Tac Toe game** built using **Python** and the **Tkinter GUI libra
 - ✅ Beginner-friendly code with comments
 
 ## 📷 Screenshot
-
 ![Tic Tac Toe GUI Screenshot]![image](https://github.com/user-attachments/assets/feb422e9-efb4-43f3-b5ae-e73ab1249833)
 
 
